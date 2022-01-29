@@ -4,7 +4,7 @@
 
 **Day 3 to 10: Recursion and Backtracking**  
 
-**Day 11 to 30: Basic Data Structure->**
+**Day 11 to 30: Basic Data Structures->**
 <ul>  
   <li>Arrays</li>
   <li>Linked List</li>
@@ -41,7 +41,7 @@
 ***2. Graphs***
 <ul>
   <li>Breadth First Search [BFS]</li>  
-  <li>Bepth First Search [DFS]</li> 
+  <li>Depth First Search [DFS]</li> 
   <li>Shortest path from source to all vertices: <i>Dijkstra Algorithm</i></li> 
   <li>Shortest path from every vertex to every other vertex: <i>Floyd Warshall Algorithm</i></li> 
   <li>Minimum Spanning tree: <i>Prim's Algorithm</i></li>
