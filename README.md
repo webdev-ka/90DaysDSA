@@ -1,5 +1,5 @@
 # 90 Days Of DSA Challenge
-### 90 Days of DSA RoadMap
+### 90 Days of DSA RoadMap->
 **Day 1 and 2: Space and Time Complexity**  
 
 **Day 3 to 10: Recursion and Backtracking**  
@@ -11,19 +11,17 @@
   <li>Stacks And Queues</li>
 </ul>   
 
-
-
 > **Advice:** This is the perfect time to start participating in Online Coding Contests. <br>
 
 **Day 31 to 45: Searching and Sorting Algorithms->**   
 
-**1. Searching**
+***1. Searching***
 <ul>
   <li>Linear Search</li>
   <li>Binary Search</li>
   </ul>
   
-**2. Sorting**
+***2. Sorting***
 <ul>
   <li>Bubble Sort</li>
   <li>Insertion Sort</li>
@@ -34,23 +32,23 @@
   
 **Day 46 to 70: Dynamic Programming and Graphs->**   
 
-**1. Dynamic Programming**
+***1. Dynamic Programming***
 <ul>
   <li>Memoization</li>
   <li>Tabulation</li>
   </ul>
   
-**2. Graphs**
+***2. Graphs***
 <ul>
   <li>Breadth First Search [BFS]</li>  
   <li>Bepth First Search [DFS]</li> 
-  <li>Shortest path from source to all vertices: *Dijkstra Algorithm*</li> 
-  <li>Shortest path from every vertex to every other vertex: *Floyd Warshall Algorithm*</li> 
-  <li>Minimum Spanning tree: *Prim's Algorithm*</li>
-  <li>Minimum Spanning Tree: *Kruskal Algorithm*</li>  
-  <li>Strongly connected component: *Kosaraju’s Algorithm* </li>
+  <li>Shortest path from source to all vertices: <i>Dijkstra Algorithm</i></li> 
+  <li>Shortest path from every vertex to every other vertex: <i>Floyd Warshall Algorithm</i></li> 
+  <li>Minimum Spanning tree: <i>Prim's Algorithm</i></li>
+  <li>Minimum Spanning Tree: <i>Kruskal Algorithm</i></li>  
+  <li>Strongly connected component: <i>Kosaraju’s Algorithm</i> </li>
   <li>Topological Sort</li>  
-  <li>Shortest Path from source to all vertices with negative edges: *Bellman ford Algorithm*</li>   
+  <li>Shortest Path from source to all vertices with negative edges: <i>Bellman ford Algorithm</i></li>   
   <li>Normal DSU</li>   
   <li>DSU by rank</li>
 </ul>
