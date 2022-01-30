@@ -15,13 +15,13 @@
 
 **Day 31 to 45: Basic Algorithms->**   
 
-***1. Searching***
+**1. Searching**
 <ul>
   <li>Linear Search</li>
   <li>Binary Search</li>
   </ul>
   
-***2. Sorting***
+**2. Sorting**
 <ul>
   <li>Bubble Sort</li>
   <li>Insertion Sort</li>
@@ -30,9 +30,9 @@
   <li>Quick Sort</li>
 </ul>
 
-***3. HashMaps***
+**3. HashMaps**
 
-***4. Trees***
+**4. Trees**
 
 ***5. Heaps***
 
@@ -40,13 +40,13 @@
   
 **Day 46 to 70: Dynamic Programming and Graphs->**   
 
-***1. Dynamic Programming***
+**1. Dynamic Programming**
 <ul>
   <li>Memoization</li>
   <li>Tabulation</li>
   </ul>
   
-***2. Graphs***
+**2. Graphs**
 <ul>
   <li>Breadth First Search [BFS]</li>  
   <li>Depth First Search [DFS]</li> 
