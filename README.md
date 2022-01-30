@@ -13,7 +13,7 @@
 
 > **Advice:** This is the perfect time to start participating in Online Coding Contests. <br>
 
-**Day 31 to 45: Searching and Sorting Algorithms->**   
+**Day 31 to 45: Basic Algorithms->**   
 
 ***1. Searching***
 <ul>
@@ -29,6 +29,14 @@
   <li>Merge Sort</li>
   <li>Quick Sort</li>
 </ul>
+
+***3. HashMaps***
+
+***4. Trees***
+
+***5. Heaps***
+
+***6. Sliding Window***  
   
 **Day 46 to 70: Dynamic Programming and Graphs->**   
 
