@@ -34,10 +34,10 @@
 
 **4. Trees**
 
-***5. Heaps***
+**5. Heaps**
 
-***6. Sliding Window***  
-  
+**6. Sliding Window**  
+
 **Day 46 to 70: Dynamic Programming and Graphs->**   
 
 **1. Dynamic Programming**
